@@ -11,3 +11,4 @@ debug/
 config.ini
 pretrained/
 experiments/
+.vscode
